@@ -1,0 +1,9 @@
+# 예시 대상 목록 (한 줄에 하나, # 이후는 주석)
+github.com
+google.com
+example.com
+mozilla.org
+cloudflare.com
+wikipedia.org
+https://expired.badssl.com/
+3des.badssl.com
